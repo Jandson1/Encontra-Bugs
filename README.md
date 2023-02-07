@@ -31,3 +31,6 @@ QA, Testes unitários, Java, JUnit4...
 ## 🚀 Sobre mim
 Desenvolvendo as minhas habilidades para que um dia possa ser uma referência na área.
 
+## Contato
+
+https://www.linkedin.com/in/jandsonmoura/
