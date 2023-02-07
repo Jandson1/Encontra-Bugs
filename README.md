@@ -21,11 +21,11 @@ Posteriormente adicionarei as Anotações @After e @Before, afim de deixar o có
 
 ## Aprendizados
 
-O mais inteeressante nessa prática são as várias possibilidades de combinar os métodos para conseguir alcançar os testes, com certeza com o aumento da prática esses testes se tornam cada vez mais simples.
+O mais inteeressante nessa prática são as várias possibilidades de combinar os métodos para conseguir alcançar os testes, com certeza com o aumento da prática esses testes se tornam cada vez mais simples. Entender bem como funciona os testes unitários garante uma execução mais rápida da base da pirâmide de testes.
 
 
 ## 🛠 Habilidades
-QA, Testes unitários, Java, JUnit4...
+QA, Testes unitários, Java, JUnit4, Gherkin...
 
 
 ## 🚀 Sobre mim
